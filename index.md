@@ -1,5 +1,4 @@
 Let's see how this one's gonna go
-<li>
 * Name
 * Age
 * Area
@@ -9,4 +8,3 @@ Let's see how this one's gonna go
 * People preferences
 * Game preferences
 * Preferred preferences
-</li>
