@@ -1,4 +1,5 @@
 Let's see how this one's gonna go
+<li>
 Name
 Age
 Area
@@ -8,3 +9,4 @@ Music preferences
 People preferences
 Game preferences
 Preferred preferences
+</li>
